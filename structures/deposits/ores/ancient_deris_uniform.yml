@@ -1,4 +1,4 @@
-id: ANCIENT_DEBRIS
+id: ANCIENT_DEBRIS_UNIFORM
 type: SCATTERED_ORE
 replace:
   - minecraft:netherrack
@@ -7,6 +7,6 @@ replace:
 
 material: minecraft:ancient_debris
 
-size: 3
+size: 2
 
 exposed: 0
