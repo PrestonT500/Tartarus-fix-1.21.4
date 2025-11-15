@@ -22,4 +22,3 @@ terrain:
   sampler-2d:
     dimensions: 2
     type: CONSTANT
-
