@@ -5,7 +5,6 @@ extends:
   - EQ_THE_BOUNDARY
   - MOB_VEX
 
-vanilla: minecraft:basalt_deltas
 color: $biomes/colors.yml:THE_BOUNDARY
 
 palette:
